@@ -1,0 +1,51 @@
+.bg-header{
+    background-color: rgba(151, 167, 163, 0.205);
+}
+#logo{
+    width: 250px;
+    height:200 px;
+}
+.btn-success{
+    border-radius:30px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.blod-text{
+    font-size:50px;
+    
+}
+.icon{
+    background-color: rgb(87, 175, 138);
+}
+.icon-img{
+
+    width: 80px;
+    height: 120px;
+    
+}
+.card{
+    height: 250px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(151, 167, 163, 0.205);
+    align-items: center;
+    margin-top: 10px;
+    padding-top: 50px;
+}
+.card:hover{
+    height: 250px;
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    align-items: center;
+    margin-top: 10px;
+    padding-top: 50px;
+}
+.card-img-top{
+    width: 70px;
+    height: 80px;
+    
+}
+.card-text{
+    color: grey;
+}
