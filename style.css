@@ -8,8 +8,9 @@
 .btn-success{
     border-radius:30px;
 }
-.container{
+.sps{
     margin-bottom: 50px;
+}
 }
 .blod-text{
     font-size:50px;
@@ -67,4 +68,21 @@
 .logo-png{
     height: 21px;
     width: 21px;
+}
+.man{
+    width: 100px;
+    height: 100px;
+}
+.mdl{
+    align-items: center;
+}
+footer{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.76);
+    padding-top: 20px;
+}
+.footer{
+    margin-top: 10px;
+    font-size: small;
+    color: lightgray;
 }
